@@ -61,9 +61,11 @@ After simulation, the following is observed:
 ![Simulation Waveform](https://github.com/obulsai/SPI-Protocol/blob/83a3094e9248f18ddf64744e3e4e303fdcd528fe/simulation/simulation.png)
 
 ---
+---
 
 ## 📁 File Structure
 
+```` ```plaintext ````  
 SPI-Protocol/
 ├── spi.v              # Top module (master + slave)
 ├── spi_master.v       # Master logic
@@ -77,7 +79,7 @@ SPI-Protocol/
 │   └── Introduction-to-SPI-Multiple-Slave-Configuration-Separate-Slave-Select.png
 └── README.md          # Project summary
 
----
+```` ``` ````  
 
 ## 🛠️ Requirements
 
