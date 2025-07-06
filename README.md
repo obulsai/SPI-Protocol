@@ -64,7 +64,6 @@ After simulation, the following is observed:
 
 ## 📁 File Structure
 
-```plaintext
 SPI-Protocol/
 ├── spi.v              # Top module (master + slave)
 ├── spi_master.v       # Master logic
