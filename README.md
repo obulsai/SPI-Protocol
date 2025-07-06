@@ -65,7 +65,7 @@ After simulation, the following is observed:
 
 ## 📁 File Structure
 
-```` ```plaintext ````  
+ ```plaintext  
 SPI-Protocol/
 ├── spi.v              # Top module (master + slave)
 ├── spi_master.v       # Master logic
@@ -79,7 +79,7 @@ SPI-Protocol/
 │   └── Introduction-to-SPI-Multiple-Slave-Configuration-Separate-Slave-Select.png
 └── README.md          # Project summary
 
-```` ``` ````  
+````  
 
 ## 🛠️ Requirements
 
